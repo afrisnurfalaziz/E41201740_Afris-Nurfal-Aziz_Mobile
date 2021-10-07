@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aplikasi Pemilihan UKM</string>
+
+    <string-array name="Gol">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+    </string-array>
+</resources>
