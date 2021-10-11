@@ -1,0 +1,93 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#FFFFFF"
+    tools:context=".ProfilFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/profile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/rosalinda_regular"
+        android:text="Profile"
+        android:textColor="@color/black"
+        android:textSize="80sp"
+        android:gravity="center_horizontal" />
+
+    <ImageView
+        android:id="@+id/foto"
+        android:layout_width="wrap_content"
+        android:layout_height="150dp"
+        android:layout_marginTop="110dp"
+        app:srcCompat="@drawable/foto" />
+
+    <TextView
+        android:id="@+id/nama"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="290dp"
+        android:layout_marginLeft="20sp"
+        android:text="Nama  : Afris Nurfal Aziz"
+        android:fontFamily="@font/frock_blackitalic"
+        android:textColor="@color/black"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/nim"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="330dp"
+        android:layout_marginLeft="20sp"
+        android:text="NIM  : E41201740"
+        android:fontFamily="@font/frock_blackitalic"
+        android:textColor="@color/black"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/gol"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="370dp"
+        android:layout_marginLeft="20sp"
+        android:text="Golongan  : C"
+        android:fontFamily="@font/frock_blackitalic"
+        android:textColor="@color/black"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/prodi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="410dp"
+        android:layout_marginLeft="20sp"
+        android:text="Prodi  : Teknik Onformatika"
+        android:fontFamily="@font/frock_blackitalic"
+        android:textColor="@color/black"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/jurusan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="450dp"
+        android:layout_marginLeft="20sp"
+        android:text="Jurusan  : Teknologi Informasi"
+        android:fontFamily="@font/frock_blackitalic"
+        android:textColor="@color/black"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/notelp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="490dp"
+        android:layout_marginLeft="20sp"
+        android:text="No Telp  : 085233685030"
+        android:fontFamily="@font/frock_blackitalic"
+        android:textColor="@color/black"
+        android:textSize="20sp"/>
+
+</RelativeLayout>
