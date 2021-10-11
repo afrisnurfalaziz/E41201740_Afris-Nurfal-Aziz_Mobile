@@ -1,0 +1,5 @@
+![Store](https://user-images.githubusercontent.com/74905155/136720428-2ba30e21-be44-4c0e-bed7-f458973e3678.jpeg)
+![Reels](https://user-images.githubusercontent.com/74905155/136720435-2d0f6459-fca2-49fa-9bef-55483571cbb9.jpeg)
+![Search](https://user-images.githubusercontent.com/74905155/136720438-4e61f66f-b30a-42ac-bb18-9bb6b2c8b402.jpeg)
+![Home](https://user-images.githubusercontent.com/74905155/136720442-708ea034-97bd-4b5d-928f-3a5c667fa983.jpeg)
+![Profile](https://user-images.githubusercontent.com/74905155/136720838-04fdf579-3e97-4bf4-9f1c-a7f8a9755941.jpeg)
